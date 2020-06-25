@@ -1,0 +1,3 @@
+include ':mmsis'
+include ':app'
+rootProject.name = "MMSIS"
